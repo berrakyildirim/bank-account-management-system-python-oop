@@ -3,6 +3,11 @@
 A simple object-oriented banking system written in Python.
 This project demonstrates the use of OOP principles, exception handling, and modular design to simulate real-world banking operations such as creating accounts, depositing, withdrawing, and transferring funds.
 
+## UML Design
+
+<img src="Screenshot 2025-10-29 112549.png" width="600" alt="Bank System Demo" />
+
+
 ## Features
 
 Create and manage multiple bank accounts
